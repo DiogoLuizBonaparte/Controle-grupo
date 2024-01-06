@@ -12,3 +12,4 @@ C:\Users\Bonaparte\source\repos\Controle_Grupo\Controle_Grupo\obj\Debug\net8.0\r
 C:\Users\Bonaparte\source\repos\Controle_Grupo\Controle_Grupo\obj\Debug\net8.0\Controle_Grupo.pdb
 C:\Users\Bonaparte\source\repos\Controle_Grupo\Controle_Grupo\obj\Debug\net8.0\Controle_Grupo.genruntimeconfig.cache
 C:\Users\Bonaparte\source\repos\Controle_Grupo\Controle_Grupo\obj\Debug\net8.0\ref\Controle_Grupo.dll
+C:\Users\Bonaparte\source\repos\Controle_Grupo\Controle_Grupo\obj\Debug\net8.0\Controle_Grupo.sourcelink.json

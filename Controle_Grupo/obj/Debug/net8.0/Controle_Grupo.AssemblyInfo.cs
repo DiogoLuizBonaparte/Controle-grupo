@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Controle_Grupo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e93f86af54ed3b180604b5ddbfb2f86f68db292")]
 [assembly: System.Reflection.AssemblyProductAttribute("Controle_Grupo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Controle_Grupo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
